@@ -1,0 +1,23 @@
+{
+  "name": "pouchdb-connector",
+  "version": "1.0.0",
+  "description": "Connect PouchDB with Couchbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brion25/pouchdb-connector.git"
+  },
+  "keywords": [
+    "pouchdb",
+    "couchbase"
+  ],
+  "author": "JC Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brion25/pouchdb-connector/issues"
+  },
+  "homepage": "https://github.com/brion25/pouchdb-connector#readme"
+}
